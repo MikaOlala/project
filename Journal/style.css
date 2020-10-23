@@ -1,0 +1,57 @@
+.shift {
+	margin-top: 12rem;
+}
+.shift {
+	margin-top: 5rem;
+}
+.s-img{
+	height: 100px;
+}
+.jumbotron {
+    padding: 15px 15px;
+    background: url("files/back.png");
+    background-size: cover;
+}
+.jumbotron img {
+	padding: 7px;
+	height: 150px;
+}
+.lead {
+	font-size: 17px;
+	margin: 0;
+}
+.p-s {
+	font-size: 17px;
+	margin: 0;
+}
+.red {
+	background: #DB7164;
+}
+td {
+	text-align: center;
+	vertical-align: middle;
+	width: 100px;
+	font-size: 22px;
+}
+th a{
+	color: black;
+}
+th a:hover{
+	text-decoration: none;
+	color: black;
+}
+
+.bg-th:hover{
+	background: #F6F3FD;
+}
+.li-hov:hover {
+	color: #B5C1FF!important;
+}
+.p-alert {
+	text-align: center;
+	font-size: 18px;
+	color: #903246;
+}
+.bg-tr {
+	background: #F1F5FF;
+}
